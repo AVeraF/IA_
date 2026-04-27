@@ -1,0 +1,7 @@
+C:\Users\Вера Фёдоровна\Desktop\PR 1_3\bin\Debug\PR 1_3.exe.config
+C:\Users\Вера Фёдоровна\Desktop\PR 1_3\bin\Debug\PR 1_3.exe
+C:\Users\Вера Фёдоровна\Desktop\PR 1_3\bin\Debug\PR 1_3.pdb
+C:\Users\Вера Фёдоровна\Desktop\PR 1_3\obj\Debug\PR 1_3.csproj.AssemblyReference.cache
+C:\Users\Вера Фёдоровна\Desktop\PR 1_3\obj\Debug\PR 1_3.csproj.CoreCompileInputs.cache
+C:\Users\Вера Фёдоровна\Desktop\PR 1_3\obj\Debug\PR 1_3.exe
+C:\Users\Вера Фёдоровна\Desktop\PR 1_3\obj\Debug\PR 1_3.pdb
